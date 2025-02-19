@@ -1,5 +1,5 @@
 {
-  "homepage": "https://easytech-h.github.io/judehawens",
+  "homepage": "https://easytech-h.github.io/judeportfolio",
   "name": "portfolio-dev",
   "private": true,
   "version": "0.0.0",
@@ -9,8 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "framer-motion": "^11.0.8",
